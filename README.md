@@ -8,6 +8,8 @@ Profession Full-stack developer
 
 Birthday: 17.03.1999
 
+Languages: Russian - native speaker, English - B1
+
 ## Technologies
 
 HTML, CSS, Javascript, Typescript, React, Express, Nestjs
