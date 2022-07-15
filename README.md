@@ -1,16 +1,13 @@
-### Hi there 👋
+# About me
 
-<!--
-**KozhevnikovaYana/KozhevnikovaYana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Name: Kozhevnikova Yana Vladimirovna
 
-Here are some ideas to get you started:
+Education: Novosifirsk state university, Faculty of Information Technology, 2017-2021
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Profession Full-stack developer
+
+Birthday: 17.03.1999
+
+## Technologies
+
+HTML, css, Javascript, Typescript, React, Express, Nestjs
