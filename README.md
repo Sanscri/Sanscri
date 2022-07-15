@@ -2,7 +2,7 @@
 
 Full Name: Kozhevnikova Yana Vladimirovna
 
-Education: Novosifirsk state university, Faculty of Information Technology, 2017-2021
+Education: Novosifirsk state university, Faculty of Information Technology, 2017-2021, bachelor degree
 
 Profession Full-stack developer
 
@@ -10,4 +10,4 @@ Birthday: 17.03.1999
 
 ## Technologies
 
-HTML, css, Javascript, Typescript, React, Express, Nestjs
+HTML, CSS, Javascript, Typescript, React, Express, Nestjs
